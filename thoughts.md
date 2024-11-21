@@ -10,6 +10,6 @@
  - ender 3 mobo ??
  - stepper drives ?? possible alternatives ..
  - 24V /or/ pc PSU with 12V??
- - gantry up along only 3 rails ??, triple wire wormgear in bottom
+ - gantry up along only 3 rails ??, triple wire wormgear in bottom // maybe use leadscrews?
 
 https://www.reddit.com/r/3Dprinting/comments/1dvadue/custom_cross_gantry_is_finally_alive/
