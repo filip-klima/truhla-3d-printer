@@ -14,3 +14,10 @@
 
 https://www.reddit.com/r/3Dprinting/comments/1dvadue/custom_cross_gantry_is_finally_alive/
 https://www.youtube.com/watch?v=DBxwODDxPrM&ab_channel=PIRACERVELOCIRAPTOR
+
+
+
+
+
+PROBE IDEA
+ - https://www.youtube.com/watch?v=UsTR6VBf8fE&ab_channel=dizekat
