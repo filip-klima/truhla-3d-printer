@@ -1,0 +1,1 @@
+Místo na odkládání myšlenek
