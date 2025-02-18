@@ -21,3 +21,10 @@ https://www.youtube.com/watch?v=DBxwODDxPrM&ab_channel=PIRACERVELOCIRAPTOR
 
 PROBE IDEA
  - https://www.youtube.com/watch?v=UsTR6VBf8fE&ab_channel=dizekat
+
+
+
+
+napadlo me udelat cantilever bed ale to by nedrzelo pevne na jedne strane
+potom me napadlo dat leadscrew na jednu stranu a smooth rods na druhou, ale to by se bindovalo
+nakonec asi 3 leadscrews pres belt, nebo 2 leadscrews a 2 smooth rods v Y nebo + orientaci
